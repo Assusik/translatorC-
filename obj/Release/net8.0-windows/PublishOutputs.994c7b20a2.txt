@@ -1,0 +1,9 @@
+C:\Users\я\OneDrive\Рабочий стол\Проект\translatorc#.exe
+C:\Users\я\OneDrive\Рабочий стол\Проект\translatorc#.dll
+C:\Users\я\OneDrive\Рабочий стол\Проект\translatorc#.deps.json
+C:\Users\я\OneDrive\Рабочий стол\Проект\translatorc#.runtimeconfig.json
+C:\Users\я\OneDrive\Рабочий стол\Проект\translatorc#.pdb
+C:\Users\я\OneDrive\Рабочий стол\Проект\WindowsInput.dll
+C:\Users\я\OneDrive\Рабочий стол\Проект\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\я\OneDrive\Рабочий стол\Проект\Newtonsoft.Json.dll
+C:\Users\я\OneDrive\Рабочий стол\Проект\TextCopy.dll
